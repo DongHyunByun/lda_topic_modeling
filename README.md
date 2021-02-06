@@ -11,7 +11,9 @@
     4. 학습 및 학습으로 부터 추출한 주제 태깅
     5. 모델 테스트 및 불용어 존재시 2로 돌아가서 다시 반복
     
-4. **파일설명**
+4. **파일설명**  
+![스케치](https://user-images.githubusercontent.com/50386280/107105255-a93a7480-6868-11eb-917e-dc46bd4f730a.png)
+
     1. 1_remove_stopword.ipynb  
         **[input file : data.p, kor_stopword2.csv]**  
         **[output file : data]**
